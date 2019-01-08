@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: lightgray;
+    width: 100vw;
+    height: 15vh;
+}
+
+.head1 {
+    width: 80px;
+    height: 80px;
+    background-color: blue;
+    float: left;
+    color: blue;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+p {
+    text-align: left;
+    margin: 10vh;
+    font-size: 25px;
+}
+
+.one {
+    background-color: blue;
+    width: 100vw;
+    height: 13vh;
+}
+.two {
+    background-color: teal;
+    width: 100vw;
+    height: 13vh;
+}
+.three {
+    background-color: green;
+    width: 100vw;
+    height: 13vh;
+}
+.four {
+    background-color: yellow;
+    width: 100vw;
+    height: 13vh;
+}
